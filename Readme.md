@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadhammadrashidofficial)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@muhammadhammadrashidofficial)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadhammadrashidofficial@gmail.com)
-![ISTQB](https://img.shieldas.io/badge/ISTQB-Foundation%20Level%20Certified-1F4E79?style=flat-square)
 
 I test websites, mobile apps, and APIs to find problems before users do. My work covers both manual testing and test automation, and I combine QA with a software development background (Computer Science degree).
 
