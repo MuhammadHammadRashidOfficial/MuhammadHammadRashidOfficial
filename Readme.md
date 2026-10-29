@@ -67,10 +67,10 @@ I'm **open to remote QA opportunities** and to collaborating with international 
 
 ## 📂 Repositories
 
-- [QA-RoadMap](https://github.com/HammadRashid1997/QA-RoadMap)
-- [Automation-Testing](https://github.com/HammadRashid1997/Automation-Testing)
-- [50Projects50Days-Testing](https://github.com/HammadRashid1997/50Projects50Days-Testing)
-- [Payment-Management-System](https://github.com/HammadRashid1997/Payment-Management-System)
+- [QA-RoadMap](https://github.com/MuhammadHammadRashidOfficial/QA-RoadMap)
+- [Google Maps API Project](https://github.com/MuhammadHammadRashidOfficial/Maps-Google-Api-Project)
+- [Fertilize-Ai](https://github.com/MuhammadHammadRashidOfficial/Fertilize-Ai)
+- [Husky](https://github.com/MuhammadHammadRashidOfficial/Husky)
 
 ## 📬 Get in Touch
 
