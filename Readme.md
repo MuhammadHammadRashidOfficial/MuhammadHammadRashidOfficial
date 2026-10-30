@@ -1,24 +1,39 @@
-# Muhammad Hammad Rashid
+<h1 align="center">Muhammad Hammad Rashid</h1>
 
-### Software Quality Assurance Engineer · Manual & Automation Testing
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=008000&center=true&vCenter=true&width=600&lines=Software+Quality+Assurance+Engineer;Manual+%26+Automation+Testing;API%2C+Web+%26+Mobile+Testing;ISTQB+Certified+Tester" alt="Typing SVG" />
+</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadhammadrashidofficial)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@muhammadhammadrashidofficial)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadhammadrashidofficial@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammadhammadrashidofficial">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@muhammadhammadrashidofficial">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="mailto:muhammadhammadrashidofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-I test websites, mobile apps, and APIs to find problems before users do. My work covers both manual testing and test automation, and I combine QA with a software development background (Computer Science degree).
+## 👨‍💻 About Me
 
+I'm a Software Quality Assurance Engineer with 3+ years of experience in ensuring the quality and reliability of web applications, mobile apps, and APIs.
 
-I'm **open to remote QA opportunities** and to collaborating with international teams.
+I work across manual and automation testing, with hands-on experience in test planning, test execution, API validation, and automation frameworks. I hold a Bachelor's degree in Computer Science and am ISTQB Foundation Level certified.
+
+I'm always interested in exploring better testing practices, improving automation, and collaborating with teams to deliver reliable software products.
+
+I'm open to remote QA opportunities and to collaborating with international teams.
 
 ## 🔍 What I Do
 
-- **Manual testing:** hands-on testing of websites and applications, including writing test cases, test plans, and test strategies.
-- **Automation testing:** automated test scripts using Cypress, Selenium, and Appium.
-- **API testing:** checking that the services behind an app return correct data and behave as expected, using Postman.
-- **Mobile testing:** testing apps on real devices, simulators, and emulators.
-- **Performance testing:** measuring how a system behaves under load, using Grafana k6 and JMeter.
-- **Requirement and design review:** reviewing specifications (SRS, FRD) and designs early to catch issues before development.
+- **Manual Testing:** Test planning, test case design, test execution, exploratory testing, and defect management.
+- **Automation Testing:** Building and maintaining automated test scripts using Cypress, Playwright, Selenium, and Appium.
+- **API Testing:** Validating REST APIs, response structures, status codes, error handling, and data integrity using Postman.
+- **Mobile Testing:** Functional, usability, compatibility, and regression testing across real devices, simulators, and emulators.
+- **Performance Testing:** Evaluating application performance, response times, and system behaviour using Grafana k6 and JMeter.
+- **Requirement Analysis:** Reviewing requirements, specifications (SRS/FRD), and UI/UX designs to identify potential issues before development.
 
 ## 🧰 Tools & Technologies
 
