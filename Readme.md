@@ -190,7 +190,3 @@ I'm open to remote QA opportunities and to collaborating with international team
 
 - [LinkedIn](https://www.linkedin.com/in/muhammadhammadrashidofficial)
 - [muhammadhammadrashidofficial@gmail.com](mailto:muhammadhammadrashidofficial@gmail.com)
-
-  ## My 3D Contribution Graph
-
-![3D Contributions](./profile-3d-contrib/profile-green-animate.svg)
