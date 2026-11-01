@@ -105,6 +105,7 @@ I'm open to remote QA opportunities and to collaborating with international team
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Allure%20TestOps-FF6B35?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tuskr-4479A1?style=flat-square&logoColor=white"/>
 </p>
 
 ### 🎨 Design & Collaboration
